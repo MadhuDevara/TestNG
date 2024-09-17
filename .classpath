@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="TestNGTU/src"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Madhu Devarakonda/OneDrive/Desktop/SOFTWARE TESTING/jar_files/testng-7.10.2.jar"/>
 	<classpathentry kind="output" path="TestNGTU/bin"/>
 </classpath>
